@@ -3,7 +3,7 @@ apply plugin: 'com.jfrog.bintray'
 apply plugin: 'maven'
 
 group = 'com.github.jgriff.gradle'
-description = ""
+description = "A Gradle plugin for easily assembling your own custom distributions of Eclipse Virgo, optionally pre-packaged with your bundles."
 
 buildscript {
     repositories {
