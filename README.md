@@ -13,7 +13,7 @@ apply plugin: 'com.github.jgriff.virgo.assembly'
 
 buildscript {
     dependencies {
-        classpath("com.github.jgriff.gradle:gradle-virgo-plugin:0.1")
+        classpath("com.github.jgriff.gradle:gradle-virgo-plugin:0.0.1")
     }
 }
 
