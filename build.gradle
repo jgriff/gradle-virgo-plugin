@@ -98,7 +98,7 @@ bintray {
     publish = true
     pkg {
         repo = 'maven'
-        name = project.group + ':' + project.name
+        name = project.name
         description = project.description
         websiteUrl = 'https://github.com/jgriff/gradle-virgo-plugin'
         issueTrackerUrl = 'https://github.com/jgriff/gradle-virgo-plugin/issues'
