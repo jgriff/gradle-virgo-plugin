@@ -42,7 +42,7 @@ task testJar(type: Jar) {
     from sourceSets.integTest.output
 }
 
-task reportZip(type: Zip) {
+task reportsZip(type: Zip) {
     classifier = 'reports'
     from reporting.baseDir
 }
@@ -86,7 +86,7 @@ artifacts {
     archives sourcesJar
     archives javadocJar
     archives testJar
-    archives reportZip
+    archives reportsZip
 }
 
 // publication
