@@ -3,7 +3,7 @@ A [Gradle](www.gradle.org) plugin for easily assembling your own custom distribu
 
 [![Build Status](https://drone.io/github.com/jgriff/gradle-virgo-plugin/status.png)](https://drone.io/github.com/jgriff/gradle-virgo-plugin/latest)
 [![semver](http://img.shields.io/:semver-0.0.2-blue.svg) ](http://semver.org)
-[![Download](https://api.bintray.com/packages/jgriff/maven/com.github.jgriff.gradle%3Agradle-virgo-plugin/images/download.png) ](https://bintray.com/jgriff/maven/com.github.jgriff.gradle%3Agradle-virgo-plugin/_latestVersion)
+[![Download](https://api.bintray.com/packages/jgriff/maven/gradle-virgo-plugin/images/download.png) ](https://bintray.com/jgriff/maven/gradle-virgo-plugin/_latestVersion)
 
 Plugin ID | Description
 --------- | ------------
