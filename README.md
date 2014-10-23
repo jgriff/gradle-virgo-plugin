@@ -1,4 +1,5 @@
 # Gradle Virgo Plugin
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jgriff/gradle-virgo-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A [Gradle](www.gradle.org) plugin for easily assembling your own custom distribution of [Eclipse Virgo](http://www.eclipse.org/virgo/).  Essentially, this plugin copies a base Virgo directory (you supply) and adds/modifies it based on your configuration(s).  Handy for distributing your application prepackaged with Virgo.
 
 [![Build Status](https://drone.io/github.com/jgriff/gradle-virgo-plugin/status.png)](https://drone.io/github.com/jgriff/gradle-virgo-plugin/latest)
